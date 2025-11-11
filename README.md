@@ -5,3 +5,5 @@ LAB 1 - Ploturi, sin/cos, semnale square, sawtooth, 2D, numpy/matplotlib, frecve
 LAB 2 - Audio, aproximari Taylor, Pade, SNR
 
 LAB 3 - DFT, vizualizare linii F, infasurari, reprezentari in planul complex, animatii, FT pentru un semnal care contine 3 frecvente
+
+LAB 4 - Aliere, spectograme, decibel
