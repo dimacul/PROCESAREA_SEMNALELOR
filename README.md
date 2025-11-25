@@ -7,3 +7,7 @@ LAB 2 - Audio, aproximari Taylor, Pade, SNR
 LAB 3 - DFT, vizualizare linii F, infasurari, reprezentari in planul complex, animatii, FT pentru un semnal care contine 3 frecvente
 
 LAB 4 - Aliere, spectograme, decibel
+
+LAB 5 - Semnal din trafic
+
+LAB 6 - Filtre, convolutii, sinc, Thm de deplasare circulara
