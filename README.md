@@ -11,3 +11,5 @@ LAB 4 - Aliere, spectograme, decibel
 LAB 5 - Semnal din trafic
 
 LAB 6 - Filtre, convolutii, sinc, Thm de deplasare circulara
+
+LAB 7 - Transformata Fourier 2D, imagini
