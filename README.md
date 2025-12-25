@@ -13,3 +13,7 @@ LAB 5 - Semnal din trafic
 LAB 6 - Filtre, convolutii, sinc, Thm de deplasare circulara
 
 LAB 7 - Transformata Fourier 2D, imagini
+
+LAB 8 - Serii de timp 1
+
+LAB 9 - Serii de timp 2
