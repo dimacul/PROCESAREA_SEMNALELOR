@@ -17,3 +17,5 @@ LAB 7 - Transformata Fourier 2D, imagini
 LAB 8 - Serii de timp 1
 
 LAB 9 - Serii de timp 2
+
+PROIECT COMPRIMAREA SERIILOR DE TIMP CU GORILLA: https://github.com/dimacul/PROIECT_PROCESAREA_SEMNALELOR/tree/deaaa46e3a3406004c852cfcd00cdd3d039223e9
